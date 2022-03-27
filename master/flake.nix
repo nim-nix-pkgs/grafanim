@@ -11,6 +11,7 @@
   inputs.src-grafanim-master.ref   = "refs/heads/master";
   inputs.src-grafanim-master.owner = "jamesalbert";
   inputs.src-grafanim-master.repo  = "grafanim";
+  inputs.src-grafanim-master.dir   = "";
   inputs.src-grafanim-master.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
