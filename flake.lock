@@ -33,11 +33,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1652791504,
-        "narHash": "sha256-ke9oedpgqhkaFY/PZSPIN4TFfxOMoe9Q/9DDWYEc4iQ=",
+        "lastModified": 1652797034,
+        "narHash": "sha256-+IfkeWnhVx0kZKm8GpDrJEdKaIn6M8ryAPtZNVZOmlw=",
         "owner": "nim-nix-pkgs",
         "repo": "grafanim",
-        "rev": "1ce8af2cf7964b281cfc121e1c37e17dac28f8c8",
+        "rev": "9b0890bf2b68f31a5156e366bff3a1571608a413",
         "type": "github"
       },
       "original": {
